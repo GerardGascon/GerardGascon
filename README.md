@@ -1,14 +1,10 @@
 # Hey! I'm Geri!
 
----
-
 Hey! I'm Gerard, also known as Geri, a young student who makes games as a hobby.
 
 Nowadays I have as a hobby game development, specifically the programming part, made games in Unity and currently experimenting with Mega Drive homebrew development using SGDK.
 
 # Current project
-
----
 
 ### Mega Drive Project
 
@@ -19,8 +15,6 @@ The **SEGA Mega Drive** is quite an old console right? But that's no reason for 
 While I don't finish the game, I'll be uploading some videos (Spanish only) whenever I can to show what I'm doing on my [YouTube](https://www.youtube.com/channel/UCB669nq6P6WU2mP6RYVtEig)!
 
 # Projects
-
----
 
 ### Plugins
 
@@ -43,8 +37,6 @@ While I don't finish the game, I'll be uploading some videos (Spanish only) when
 - [Wowie Game Jam Feb.2019](https://geri8.itch.io/wowie-game-jam): A game about a ball who can't move and for move it has to shoot for move to the opposite side. Made for the Wowie Game Jam, theme: Everything interacts with everything.
 
 # Learn more
-
----
 
 [Website](https://gerardgascon.github.io/)
 
