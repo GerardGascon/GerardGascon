@@ -22,6 +22,7 @@ While I don't finish the game, I'll be uploading some videos (Spanish only) when
 
 ### Games
 
+- [Twin Hook](https://geri8.itch.io/twin-hook): An arcade game where you control two fish characters that are joined by a rope. You have separate controls to move your characters in order to knock your enemies down - do so by touching the penguins with your rope. But be careful, sea urchins will appear to tear your rope and, if they do, you will lose the game. Game will also be over if you touch your enemies.
 - [Ropasci Forest](https://geri8.itch.io/ropasci-forest): You are in Ropasci Forest, where some evil creatures are waiting to defy you in a 1 vs 1 Rock Paper Scissor duel. Escape through the forest by keeping all of your fingers or tricking your adversaries.
 - [CD-ROOM](https://charliebluewood.itch.io/cd-room): Clear every corrupted file that lives inside your computer by throwing your CDs at it. Your Discs keep you running, so **take care where you throw them**! We hope you'll have fun and find secrets and collectables while cleaning your Hard Drive.
 - [Mediepals](https://geri8.itch.io/mediepals): You've been invited to your friends' birthday party, and their parents have prepared something very special... A Medieval Tournament!! Five trials will decide who's the King or Queen of the party! Horse jousts, spell casting, wild racing... Have you got what it takes to come out on top?
