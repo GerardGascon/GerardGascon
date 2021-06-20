@@ -40,14 +40,11 @@ While I don't finish the game, I'll be uploading some videos (Spanish only) when
 
 # Learn more
 
-[Website](https://gerardgascon.github.io/)
-
-[YouTube](https://www.youtube.com/channel/UCB669nq6P6WU2mP6RYVtEig)
-
-[Games](https://geri8.itch.io/)
+- [Website](https://gerardgascon.github.io/)
+- [YouTube](https://www.youtube.com/channel/UCB669nq6P6WU2mP6RYVtEig)
+- [Games](https://geri8.itch.io/)
 
 ### Contact
 
-[Twitter](https://twitter.com/G_of_Geri)
-
-[Telegram](https://t.me/G_of_Geri)
+- [Twitter](https://twitter.com/G_of_Geri)
+- [Telegram](https://t.me/G_of_Geri)
