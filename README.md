@@ -38,8 +38,6 @@ The **SEGA Mega Drive** is quite an old console right? But that's no reason for 
 
 # Learn more
 
-- [Website](https://gerardgascon.github.io/)
-- [YouTube](https://www.youtube.com/channel/UCB669nq6P6WU2mP6RYVtEig)
 - [Games](https://geri8.itch.io/)
 
 ### Contact
