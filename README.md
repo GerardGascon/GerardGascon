@@ -8,7 +8,7 @@ Nowadays I have as a hobby game development, specifically the programming part, 
 
 ### Mega Drive Project
 
-Making a Mega Drive game in 2021
+Making a Mega Drive game in 2022
 
 The **SEGA Mega Drive** is quite an old console right? But that's no reason for not trying to make a game, so here I am, procrastinating while trying to accomplish my goal to complete a full game that can runs on original hardware without any problem.
 
