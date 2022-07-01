@@ -45,3 +45,4 @@ The **SEGA Mega Drive** is quite an old console right? But that's no reason for 
 
 - [Twitter](https://twitter.com/G_of_Geri)
 - [Telegram](https://t.me/G_of_Geri)
+- [LinkedIn](https://www.linkedin.com/in/gerardgasconmoline/)
