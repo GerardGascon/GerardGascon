@@ -2,17 +2,14 @@
 
 Hey! I'm Gerard, also known as Geri, a young student who makes games as a hobby.
 
-Nowadays I have as a hobby game development, specifically the programming part, made games in Unity and currently experimenting with Mega Drive homebrew development using SGDK.
-
-# Current project
-
-### Mega Drive Project
-
-Making a Mega Drive game in 2022
-
-The **SEGA Mega Drive** is quite an old console right? But that's no reason for not trying to make a game, so here I am, procrastinating while trying to accomplish my goal to complete a full game that can runs on original hardware without any problem.
+Nowadays I have as a hobby game development, specifically the programming part, made games in for PC with Unity, Mega Drive with SGDK and also been experimenting with some hardware development.
 
 # Projects
+
+### Researches
+
+- [Game development in 16-bits](https://www.url.edu/sites/default/files/content/file/2022/06/02/36/premisrecercaurl2022_desenvolupament-de-videojocs-en-16-bits.-gerard-gascon-moline.pdf): Nowadays, most of the video games are developed using game engines created specifically for them. Whether it is using Unity, Unreal Engine or any other piece of software, developers create them using the maximum of facilities that today’s technology provides. Despite that, there’s a small group of people that do not try to make use of that, instead they develop games for retro consoles that have been obsolete for years or even decades. These games are called 'homebrew' games, and this research project is all about developing a 'homebrew' game for a 30-year-old games console using today’s technology. This research has been presented in [XXIII Exporecerca Jove](https://www.magmarecerca.org/ca/exporecerca), [LIYSF Virtual 2022](https://www.liysf.org.uk/) and at a local presentation that you can watch [here](https://www.youtube.com/watch?v=KN0jH8xeC6k) (Catalan only).
+- [Yet Another World’s Worst Video Card](https://hackaday.io/project/186465-yet-another-worlds-worst-video-card): A simple research based on Ben Eater’s video series about building a video card on breadboards. In this project I reduce the memory usage by only having 1-bit images.
 
 ### Tools
 
@@ -21,6 +18,7 @@ The **SEGA Mega Drive** is quite an old console right? But that's no reason for 
 
 ### Games
 
+- [Mr. Flurfels & Catarina y la tarta perdida](https://geri8.itch.io/mr-flurfels-catarina-y-la-tarta-perdida): A frustrated birthday and two sagacious investigators willing to discover the truth. Investigate every moment, every "second" of this story to uncover the mystery.
 - [Domyno](https://geri8.itch.io/domyno): This is a game about pressing the red button, but for doing that you will have to find a quite unconventional way of doing that, like using the domino pieces to press it.
 - [Twin Hook](https://geri8.itch.io/twin-hook): An arcade game where you control two fish characters that are joined by a rope. You have separate controls to move your characters in order to knock your enemies down - do so by touching the penguins with your rope. But be careful, sea urchins will appear to tear your rope and, if they do, you will lose the game. Game will also be over if you touch your enemies.
 - [Ropasci Forest](https://geri8.itch.io/ropasci-forest): You are in Ropasci Forest, where some evil creatures are waiting to defy you in a 1 vs 1 Rock Paper Scissor duel. Escape through the forest by keeping all of your fingers or tricking your adversaries.
@@ -40,9 +38,9 @@ The **SEGA Mega Drive** is quite an old console right? But that's no reason for 
 # Learn more
 
 - [Games](https://geri8.itch.io/)
+- [GitHub](https://github.com/GerardGascon)
 
 ### Contact
 
 - [Twitter](https://twitter.com/G_of_Geri)
 - [Telegram](https://t.me/G_of_Geri)
-- [LinkedIn](https://www.linkedin.com/in/gerardgasconmoline/)
