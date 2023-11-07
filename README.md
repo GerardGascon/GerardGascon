@@ -18,6 +18,8 @@ Nowadays I have as a hobby game development, specifically the programming part, 
 
 ### Games
 
+- [Figments of the Night](https://froglake.itch.io/figments-of-the-night): A game developed for the Indie Spain Jam 2023 where you wake up on a deserted island with no memory.
+- [TRORB](https://froglake.itch.io/trorb): A game developed for the List Jam 2 about a troll that must protect the orb that constantly changes the level and gameplay from an unstoppable ghost.
 - [Mr. Flurfels & Catarina y la tarta perdida](https://geri8.itch.io/mr-flurfels-catarina-y-la-tarta-perdida): A frustrated birthday and two sagacious investigators willing to discover the truth. Investigate every moment, every "second" of this story to uncover the mystery.
 - [Domyno](https://geri8.itch.io/domyno): This is a game about pressing the red button, but for doing that you will have to find a quite unconventional way of doing that, like using the domino pieces to press it.
 - [Twin Hook](https://geri8.itch.io/twin-hook): An arcade game where you control two fish characters that are joined by a rope. You have separate controls to move your characters in order to knock your enemies down - do so by touching the penguins with your rope. But be careful, sea urchins will appear to tear your rope and, if they do, you will lose the game. Game will also be over if you touch your enemies.
