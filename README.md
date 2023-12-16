@@ -43,6 +43,7 @@ Nowadays I have as a hobby game development, specifically the programming part, 
 
 # Learn more
 
+- [Website](https://gerardgascon.com)
 - [Games](https://geri8.itch.io/)
 - [GitHub](https://github.com/GerardGascon)
 
