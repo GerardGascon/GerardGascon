@@ -44,10 +44,9 @@ Nowadays I have as a hobby game development, specifically the programming part, 
 # Learn more
 
 - [Website](https://gerardgascon.com)
-- [Games](https://geri8.itch.io/)
-- [GitHub](https://github.com/GerardGascon)
+- [Games](https://itch.gerardgascon.com/)
 
 ### Contact
 
-- [Twitter](https://twitter.com/G_of_Geri)
-- [Telegram](https://t.me/G_of_Geri)
+- [Twitter](https://twitter.gerardgascon.com)
+- [Telegram](https://telegram.gerardgascon.com)
