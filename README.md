@@ -37,7 +37,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Pair%2FMob_Programming-crimson?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/Test_Automation-darkcyan?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/Refactoring-brown?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/XP-darkolivegreen?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Extreme%20Programming-darkolivegreen?style=for-the-badge">
 </p>
 
 ---
