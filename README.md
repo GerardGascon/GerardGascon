@@ -42,14 +42,6 @@
 
 ---
 
-### 🔥&nbsp;My Stats
-<p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GerardGascon&theme=dark&border_radius=10&mode=weekly&card_width=300&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-  <a href="https://github-readme-stats.vercel.app"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=GerardGascon&theme=dark&layout=compact&border_radius=8" alt="Top Languages"></a>
-</p>
-
----
-
 ### 🔗&nbsp;Where to find me
 
 - 🌐&nbsp;[Website](https://gerardgascon.com/)
