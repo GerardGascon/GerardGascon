@@ -46,6 +46,6 @@
 
 - 🌐&nbsp;[Website](https://gerardgascon.com/)
 - 💼&nbsp;[LinkedIn](https://www.linkedin.com/in/gerardgasconmoline/)
-- 🐦&nbsp;[Twitter](https://x.com/G_of_Geri)
+- 🦋&nbsp;[Bluesky](https://bsky.app/profile/gerardgascon.com)
 - 🦣&nbsp;[Mastodon](https://mastodon.gamedev.place/@geri)
 
