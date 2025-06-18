@@ -1,4 +1,4 @@
-![1_ee8liCYpAwJ9-JBXcoA-JQ](https://github.com/GerardGascon/GerardGascon/assets/52170489/903f6b45-aeca-4d98-88a4-5d0bc5861e63)
+[![1_ee8liCYpAwJ9-JBXcoA-JQ](https://github.com/GerardGascon/GerardGascon/assets/52170489/903f6b45-aeca-4d98-88a4-5d0bc5861e63)]()
 
 <h1 align="center">👋 Hey! I'm Geri!</h1>
 
